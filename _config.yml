@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              Integralexei
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             Aleksei Logunovskii
+baseurl:            ""
+url:                "https://integralexei.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
